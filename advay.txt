@@ -1,0 +1,20 @@
+git init 
+	Initialises new repository 
+
+git add 
+	Add the files into staging area
+
+git commit 
+	Shift the files from the staging area to the repository. Change the version
+
+git log
+	Check all commits
+
+git status
+	Check for all files in the staging area
+
+git diff
+	Show all the difference between staging area and working directory
+
+git clone 
+	Clone a online repository 
